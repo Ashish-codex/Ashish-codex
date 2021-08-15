@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Prajapati.
-- 👀 I’m interested in Mobile Application Development.
-- 🌱 I’m currently learning  Kotlin, Nodejs, Firebase ...
+- 👀 I’m interested in Android Application Development and Backend Development.
+- 🌱 I’m currently learning  Java, Javascript, Firebase, Nodejs, Mongodb ...
 - 📫 How to reach me https://www.linkedin.com/in/ashish-prajapati-16200
 
 <!---
