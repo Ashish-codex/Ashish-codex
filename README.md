@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashish.prajapati16200@gmail.com**
 
-- ⚡ Fun fact **I am funny :)**
+- ⚡ Fun fact **Don't drink & code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
